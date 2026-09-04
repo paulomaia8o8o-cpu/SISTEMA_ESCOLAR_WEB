@@ -1,0 +1,24 @@
+
+body{
+    background-color: #38BDF8;
+}
+h1{
+    color: #1E3A8A;
+}
+h2{
+  color:#1E3A8A;
+}
+body {
+    display: flex;
+    flex-direction: column;  /* Alinha os elementos um abaixo do outro */
+    justify-content: center; /* Centraliza verticalmente */
+    align-items: center;     /* Centraliza horizontalmente */
+    min-height: 100vh;       /* Garante que o body ocupe toda a altura da tela */
+    margin: 0;               /* Remove as margens padrão do navegador */
+  }
+  
+
+
+
+
+ 
